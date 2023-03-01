@@ -103,8 +103,8 @@ cell_cell_communication <- function(cellchat, workers) {
   # triMean is used for calculating the average gene expression per cell group.
   cellchat <- computeCommunProb(cellchat, type = "triMean", trim = 0.1)
   
-  # # Filter out the cell-cell communication if there are only few number of cells in certain cell groups
-  cellchat <- filterCommunication(cellchat, min.cells = 10)
+  # Filter out the cell-cell communication if there are only few number of cells in certain cell groups
+  cellchat <- filterCommunication(cellchat, min.cells = 1)
   
   # CellChat computes the communication probability on signaling pathway level by 
   # summarizing the communication probabilities of all ligands-receptors interactions 
@@ -289,7 +289,7 @@ save_interactions <- function(cellchat, output_dir, GEO.number, selected_group) 
 }
 
 # GEO numbers vector
-GEO.vector.number = c('GSE109125')
+GEO.vector.number = c('GSE109125', 'GSE122597', 'Combined')
 
 # input directory
 input_dir <- "input/"
