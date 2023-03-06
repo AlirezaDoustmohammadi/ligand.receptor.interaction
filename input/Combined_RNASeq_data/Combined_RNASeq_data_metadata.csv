@@ -1,0 +1,701 @@
+﻿Sample Name,Cell_type,TISSUE
+GSM4217693,ab T Cell,Lung
+GSM4217694,ab T Cell,Lung
+GSM4217695,ab T Cell,Spleen
+GSM4217696,ab T Cell,Spleen
+GSM4217697,ab T Cell,Spleen
+GSM4217698,ab T Cell,Thymus
+GSM4217699,ab T Cell,Thymus
+GSM4217700,ab T Cell,Thymus
+GSM4217701,ab T Cell,Liver
+GSM4217702,ab T Cell,Liver
+GSM4217703,ab T Cell,Liver
+GSM4217704,ab T Cell,Spleen
+GSM4217705,ab T Cell,Spleen
+GSM2932488,B Cell,Spleen
+GSM2932489,B Cell,Spleen
+GSM2932490,B Cell,Spleen
+GSM2932491,B Cell,Spleen
+GSM2932492,B Cell,Spleen
+GSM2932493,B Cell,Bone Marrow
+GSM2932494,B Cell,Bone Marrow
+GSM2932495,B Cell,Spleen
+GSM2932496,B Cell,Spleen
+GSM2932497,B Cell,Spleen
+GSM2932498,B Cell,Spleen
+GSM2932499,B Cell,Spleen
+GSM2932500,B Cell,Spleen
+GSM2932501,B Cell,Spleen
+GSM2932502,B Cell,Spleen
+GSM2932503,B Cell,Spleen
+GSM2932504,B Cell,Spleen
+GSM2932505,B Cell,Spleen
+GSM2932506,B Cell,Bone Marrow
+GSM2932507,B Cell,Spleen
+GSM2932508,B Cell,Spleen
+GSM2932509,B Cell,Spleen
+GSM2932510,B Cell,Spleen
+GSM2932511,B Cell,Spleen
+GSM2932512,B Cell,Spleen
+GSM3455383,Macrophage,Peritoneal Cavity
+GSM3455052,Macrophage,Peritoneal Cavity
+GSM2932515,Stromal Cells,Subcutaneous Lymph Node
+GSM2932516,Stromal Cells,Subcutaneous Lymph Node
+GSM2932517,Stromal Cells,Subcutaneous Lymph Node
+GSM2932518,Dendritic Cell,Spleen
+GSM2932519,Dendritic Cell,Spleen
+GSM2932520,Dendritic Cell,Spleen
+GSM2932521,Dendritic Cell,Spleen
+GSM2932522,Dendritic Cell,Spleen
+GSM2932523,Dendritic Cell,Spleen
+GSM2932524,Dendritic Cell,Spleen
+GSM2932525,Dendritic Cell,Spleen
+GSM2932526,Stromal Cells,Thymus
+GSM2932527,Stromal Cells,Thymus
+GSM2932528,Stromal Cells,Subcutaneous Lymph Node
+GSM2932529,Stromal Cells,Subcutaneous Lymph Node
+GSM2932530,Stromal Cells,Subcutaneous Lymph Node
+GSM2932531,Granulocytes,Bone Marrow
+GSM2932532,Granulocytes,Bone Marrow
+GSM2932533,Granulocytes,Spleen
+GSM2932534,Granulocytes,Spleen
+GSM2932513,B Cell,Peritoneal Cavity
+GSM2932514,B Cell,Peritoneal Cavity
+GSM2932537,Stromal Cells,Subcutaneous Lymph Node
+GSM2932538,Stromal Cells,Subcutaneous Lymph Node
+GSM2932539,Innate Lymphocytes,Small Intestine
+GSM2932540,Innate Lymphocytes,Small Intestine
+GSM2932541,Innate Lymphocytes,Small Intestine
+GSM2932542,Innate Lymphocytes,Small Intestine
+GSM2932543,Innate Lymphocytes,Lamina Propia
+GSM2932544,Innate Lymphocytes,Lamina Propia
+GSM2932545,Innate Lymphocytes,Lamina Propia
+GSM2932546,Innate Lymphocytes,Lamina Propia
+GSM2932547,Innate Lymphocytes,Lamina Propia
+GSM2932548,Stromal Cells,Subcutaneous Lymph Node
+GSM2932549,Stromal Cells,Subcutaneous Lymph Node
+GSM2932550,Stem Cells,Bone Marrow
+GSM2932552,Stem Cells,Bone Marrow
+GSM2932554,Stem Cells,Bone Marrow
+GSM2932555,Stem Cells,Bone Marrow
+GSM2932535,Granulocytes,Peritoneal Cavity
+GSM2932557,Macrophage,Lung
+GSM2932558,Macrophage,Lung
+GSM2932536,Granulocytes,Peritoneal Cavity
+GSM2932556,Mast Cells,Peritoneal Cavity
+GSM2932559,Macrophage,Peritoneal Cavity
+GSM2932560,Macrophage,Peritoneal Cavity
+GSM2932563,Macrophage,Lung
+GSM2932564,Stem Cells,Bone Marrow
+GSM2932565,Stem Cells,Bone Marrow
+GSM2932566,Stem Cells,Bone Marrow
+GSM2932567,Stem Cells,Bone Marrow
+GSM2932568,Stem Cells,Bone Marrow
+GSM2932569,Innate Lymphocytes,Bone Marrow
+GSM2932570,Innate Lymphocytes,Bone Marrow
+GSM2932571,Innate Lymphocytes,Spleen
+GSM2932572,Innate Lymphocytes,Bone Marrow
+GSM2932573,Innate Lymphocytes,Bone Marrow
+GSM2932574,Innate Lymphocytes,Spleen
+GSM2932575,Innate Lymphocytes,Spleen
+GSM2932576,Innate Lymphocytes,Bone Marrow
+GSM2932577,Innate Lymphocytes,Bone Marrow
+GSM2932578,Innate Lymphocytes,Spleen
+GSM2932579,Innate Lymphocytes,Spleen
+GSM2932580,ab T Cell,Spleen
+GSM2932581,ab T Cell,Spleen
+GSM2932582,ab T Cell,Spleen
+GSM2932583,ab T Cell,Spleen
+GSM2932584,ab T Cell,Spleen
+GSM2932585,ab T Cell,Spleen
+GSM2932586,ab T Cell,Thymus
+GSM2932587,ab T Cell,Thymus
+GSM2932588,ab T Cell,Thymus
+GSM2932589,ab T Cell,Thymus
+GSM2932590,ab T Cell,Thymus
+GSM2932591,ab T Cell,Thymus
+GSM2932592,ab T Cell,Thymus
+GSM2932593,B Cell,Bone Marrow
+GSM2932594,B Cell,Bone Marrow
+GSM2932595,B Cell,Bone Marrow
+GSM2932596,B Cell,Bone Marrow
+GSM2932597,B Cell,Bone Marrow
+GSM2932598,B Cell,Bone Marrow
+GSM2932599,Stem Cells,Bone Marrow
+GSM2932600,Stem Cells,Bone Marrow
+GSM2932601,ab T Cell,Spleen
+GSM2932602,ab T Cell,Spleen
+GSM2932603,ab T Cell,Spleen
+GSM2932604,ab T Cell,Spleen
+GSM2932605,ab T Cell,Spleen
+GSM2932606,ab T Cell,Spleen
+GSM2932607,ab T Cell,Thymus
+GSM2932608,ab T Cell,Thymus
+GSM2932609,ab T Cell,Spleen
+GSM2932610,ab T Cell,Spleen
+GSM2932611,ab T Cell,Thymus
+GSM2932612,ab T Cell,Thymus
+GSM2932613,ab T Cell,Thymus
+GSM2932614,ab T Cell,Thymus
+GSM2932615,ab T Cell,Thymus
+GSM2932616,ab T Cell,Thymus
+GSM2932617,ab T Cell,Thymus
+GSM2932618,ab T Cell,Thymus
+GSM2932619,ab T Cell,Gut
+GSM2932620,ab T Cell,Gut
+GSM2932621,ab T Cell,Spleen
+GSM2932622,ab T Cell,Spleen
+GSM2932623,ab T Cell,Spleen
+GSM2932624,ab T Cell,Spleen
+GSM2932625,ab T Cell,Spleen
+GSM2932626,ab T Cell,Spleen
+GSM2932627,ab T Cell,Spleen
+GSM2932628,ab T Cell,Spleen
+GSM2932629,ab T Cell,Spleen
+GSM2932630,gd T cells,Thymus
+GSM2932631,gd T cells,Thymus
+GSM2932632,gd T cells,Lymph Node
+GSM2932633,gd T cells,Lymph Node
+GSM2932634,gd T cells,Thymus
+GSM2932635,gd T cells,Thymus
+GSM2932636,gd T cells,Lymph Node
+GSM2932637,gd T cells,Lymph Node
+GSM2932638,gd T cells,Thymus
+GSM2932639,gd T cells,Lymph Node
+GSM2932640,gd T cells,Lymph Node
+GSM2932641,gd T cells,Spleen
+GSM2932642,gd T cells,Spleen
+GSM2932643,ab T Cell,Spleen
+GSM2932644,ab T Cell,Spleen
+GSM2932645,ab T Cell,Colon
+GSM2932646,ab T Cell,Colon
+GSM2932561,Macrophage,Peritoneal Cavity
+GSM2932562,Macrophage,Peritoneal Cavity
+GSM4057889,Macrophage,Brain
+GSM4057890,Macrophage,Brain
+GSM4057891,Macrophage,Spleen
+GSM4057892,Macrophage,Spleen
+GSM4057893,Macrophage,Adipose Tissue
+GSM4057894,Macrophage,Adipose Tissue
+GSM4057887,Macrophage,Peritoneal Cavity
+GSM4057888,Macrophage,Peritoneal Cavity
+GSM4057897,Monocyte,Blood
+GSM4057898,Monocyte,Blood
+GSM4057899,Monocyte,Blood
+GSM4057900,Monocyte,Blood
+GSM4057895,Macrophage,Peritoneal Cavity
+GSM4057896,Macrophage,Peritoneal Cavity
+GSM4057903,Eosinophil,Spleen
+GSM4057904,Eosinophil,Spleen
+GSM4057905,Basophils,Spleen
+GSM4057906,Basophils,Spleen
+GSM4057907,Basophils,Spleen
+GSM4057908,Mast Cells,Heart
+GSM4057909,Mast Cells,Heart
+GSM4057901,Eosinophil,Peritoneal Cavity
+GSM4057902,Eosinophil,Peritoneal Cavity
+GSM4057910,Mast Cells,Peritoneal Cavity
+GSM4057911,Mast Cells,Peritoneal Cavity
+GSM4057912,Mast Cells,Peritoneal Cavity
+GSM4057913,Mast Cells,Peritoneal Cavity
+GSM4057914,Mast Cells,Peritoneal Cavity
+GSM4057915,Mast Cells,Peritoneal Cavity
+GSM4057916,Mast Cells,Peritoneal Cavity
+GSM4057917,Mast Cells,Peritoneal Cavity
+GSM4057918,Mast Cells,Peritoneal Cavity
+GSM4057919,Mast Cells,Peritoneal Cavity
+GSM3475569,NK Cell,Spleen
+GSM3475570,T Cell,Spleen
+GSM3475571,T Cell,Spleen
+GSM3475572,T Cell,Spleen
+GSM3475573,T Cell,Spleen
+GSM3475574,T Cell,Spleen
+GSM3475575,T Cell,Spleen
+GSM3475576,T Cell,Spleen
+GSM3475577,T Cell,Spleen
+GSM3475578,T Cell,Spleen
+GSM3475579,T Cell,Spleen
+GSM3475580,T Cell,Spleen
+GSM3475581,T Cell,Spleen
+GSM3475582,T Cell,Spleen
+GSM3475583,T Cell,Spleen
+GSM3475584,T Cell,Spleen
+GSM3475585,T Cell,Spleen
+GSM3475586,T Cell,Spleen
+GSM3475587,T Cell,Spleen
+GSM3475588,T Cell,Spleen
+GSM3475589,T Cell,Spleen
+GSM3475590,T Cell,Spleen
+GSM3475591,T Cell,Spleen
+GSM3475592,T Cell,Spleen
+GSM3475593,T Cell,Spleen
+GSM3475594,T Cell,Spleen
+GSM3475595,T Cell,Spleen
+GSM3475513,B Cell,Spleen
+GSM3475514,B Cell,Spleen
+GSM3475515,B Cell,Spleen
+GSM3475516,B Cell,Spleen
+GSM3475517,B Cell,Spleen
+GSM3475518,B Cell,Spleen
+GSM3475519,B Cell,Spleen
+GSM3475520,B Cell,Spleen
+GSM3475521,B Cell,Spleen
+GSM3475522,B Cell,Spleen
+GSM3475523,B Cell,Spleen
+GSM3475524,B Cell,Spleen
+GSM3475525,B Cell,Spleen
+GSM3475526,B Cell,Spleen
+GSM3475527,B Cell,Spleen
+GSM4057920,Mast Cells,Peritoneal Cavity
+GSM4057921,Mast Cells,Peritoneal Cavity
+GSM3475528,Macrophage,Peritoneal Cavity
+GSM3475529,Macrophage,Peritoneal Cavity
+GSM3475530,Macrophage,Peritoneal Cavity
+GSM3475531,Macrophage,Peritoneal Cavity
+GSM3475532,Macrophage,Peritoneal Cavity
+GSM3475533,Macrophage,Peritoneal Cavity
+GSM3475534,Macrophage,Peritoneal Cavity
+GSM3475535,Macrophage,Peritoneal Cavity
+GSM3475536,Macrophage,Peritoneal Cavity
+GSM3475537,Macrophage,Peritoneal Cavity
+GSM3475538,Macrophage,Peritoneal Cavity
+GSM3475539,Macrophage,Peritoneal Cavity
+GSM3475540,Macrophage,Peritoneal Cavity
+GSM3475541,Macrophage,Peritoneal Cavity
+GSM3475544,Macrophage,Spleen
+GSM3475545,Macrophage,Spleen
+GSM3475542,Macrophage,Peritoneal Cavity
+GSM3475543,Macrophage,Peritoneal Cavity
+GSM3475546,Macrophage,Peritoneal Cavity
+GSM3475547,Macrophage,Peritoneal Cavity
+GSM3475548,Macrophage,Peritoneal Cavity
+GSM3475549,Macrophage,Peritoneal Cavity
+GSM3475552,NK Cell,Spleen
+GSM3475553,NK Cell,Spleen
+GSM3475554,NK Cell,Spleen
+GSM3475555,NK Cell,Spleen
+GSM3475556,NK Cell,Spleen
+GSM3475557,NK Cell,Spleen
+GSM3475558,NK Cell,Spleen
+GSM3475559,NK Cell,Spleen
+GSM3475560,NK Cell,Spleen
+GSM3475561,NK Cell,Spleen
+GSM3475562,NK Cell,Spleen
+GSM3475563,NK Cell,Spleen
+GSM3475564,NK Cell,Spleen
+GSM3475565,NK Cell,Spleen
+GSM3475566,NK Cell,Spleen
+GSM3475567,NK Cell,Spleen
+GSM3475568,NK Cell,Spleen
+GSM3455025,Macrophage,Aorta
+GSM3455026,Macrophage,Aorta
+GSM3455027,Macrophage,Aorta
+GSM3455028,Macrophage,Aorta
+GSM3455029,Macrophage,Aorta
+GSM3455030,Macrophage,Aorta
+GSM3455031,Macrophage,Aorta
+GSM3455032,Macrophage,Aorta
+GSM3455033,Macrophage,Aorta
+GSM3475550,Macrophage,Peritoneal Cavity
+GSM3475551,Macrophage,Peritoneal Cavity
+GSM3455034,Macrophage,Peritoneal Cavity
+GSM3455035,Macrophage,Peritoneal Cavity
+GSM3455036,Macrophage,Peritoneal Cavity
+GSM3455037,Macrophage,Peritoneal Cavity
+GSM3455038,Macrophage,Peritoneal Cavity
+GSM3455039,Macrophage,Peritoneal Cavity
+GSM3455040,Macrophage,Peritoneal Cavity
+GSM3455041,Macrophage,Peritoneal Cavity
+GSM3455042,Macrophage,Peritoneal Cavity
+GSM3455043,Macrophage,Peritoneal Cavity
+GSM3455046,Macrophage,yolk sac
+GSM3455047,Macrophage,yolk sac
+GSM3455048,Macrophage,Cell (Embryonic Body)
+GSM3455049,Macrophage,Cell (Embryonic Body)
+GSM3455050,Macrophage,Cell (Embryonic Body)
+GSM3455051,Macrophage,Cell (Embryonic Body)
+GSM3455044,Macrophage,Peritoneal Cavity
+GSM3455053,Dendritic Cell,Spleen
+GSM3455054,Dendritic Cell,Spleen
+GSM3455055,Dendritic Cell,Spleen
+GSM3455056,Dendritic Cell,Spleen
+GSM3455057,Dendritic Cell,Spleen
+GSM3455058,Dendritic Cell,Spleen
+GSM3455059,Dendritic Cell,Spleen
+GSM3455060,Dendritic Cell,Spleen
+GSM3455061,Dendritic Cell,Spleen
+GSM3455062,Dendritic Cell,Spleen
+GSM3455063,Dendritic Cell,Spleen
+GSM3455064,Dendritic Cell,Spleen
+GSM3455045,Macrophage,Peritoneal Cavity
+GSM3455065,Macrophage,Peritoneal Cavity
+GSM3455067,Dendritic Cell,Thymus
+GSM3455068,Dendritic Cell,Thymus
+GSM3455069,Dendritic Cell,Thymus
+GSM3455070,Dendritic Cell,Thymus
+GSM3455071,Dendritic Cell,Thymus
+GSM3455072,Dendritic Cell,Thymus
+GSM3455073,Dendritic Cell,Thymus
+GSM3455074,Dendritic Cell,Thymus
+GSM3455075,Macrophage,Thymus
+GSM3455076,Macrophage,Thymus
+GSM3455077,Macrophage,Thymus
+GSM3455078,Macrophage,Thymus
+GSM3455066,Macrophage,Peritoneal Cavity
+GSM3455079,Macrophage,Peritoneal Cavity
+GSM3455080,Macrophage,Peritoneal Cavity
+GSM3455081,Macrophage,Peritoneal Cavity
+GSM3455082,Macrophage,Peritoneal Cavity
+GSM3455083,Macrophage,Peritoneal Cavity
+GSM3455084,Macrophage,Peritoneal Cavity
+GSM3455085,Macrophage,Peritoneal Cavity
+GSM3455086,Macrophage,Peritoneal Cavity
+GSM3455087,Macrophage,Peritoneal Cavity
+GSM3455088,Macrophage,Peritoneal Cavity
+GSM3455089,Macrophage,Peritoneal Cavity
+GSM3455090,Macrophage,Peritoneal Cavity
+GSM3455091,Macrophage,Peritoneal Cavity
+GSM3455092,Monocyte,Peritoneal Cavity
+GSM3455093,Monocyte,Peritoneal Cavity
+GSM3455094,Monocyte,Peritoneal Cavity
+GSM3455095,Monocyte,Peritoneal Cavity
+GSM3455096,Monocyte,Peritoneal Cavity
+GSM3455097,Monocyte,Peritoneal Cavity
+GSM3455098,Monocyte,Peritoneal Cavity
+GSM3455099,Monocyte,Peritoneal Cavity
+GSM3455101,Monocyte,Blood
+GSM3455102,Monocyte,Blood
+GSM3455103,Monocyte,Blood
+GSM3455104,Monocyte,Blood
+GSM3455105,Monocyte,Blood
+GSM3455106,Monocyte,Blood
+GSM3455107,Monocyte,Blood
+GSM3455108,Monocyte,Blood
+GSM3455109,Monocyte,Blood
+GSM3455110,Monocyte,Blood
+GSM3455111,Monocyte,Blood
+GSM3455112,Monocyte,Blood
+GSM3455113,Monocyte,Blood
+GSM3455114,Monocyte,Blood
+GSM3455115,Dendritic Cell,Bone Marrow
+GSM3455116,Dendritic Cell,Bone Marrow
+GSM3455117,Dendritic Cell,Spleen
+GSM3455118,Dendritic Cell,Spleen
+GSM3455119,Dendritic Cell,Spleen
+GSM3455120,Dendritic Cell,Bone Marrow
+GSM3455121,Dendritic Cell,Bone Marrow
+GSM3455122,Dendritic Cell,Bone Marrow
+GSM3455123,Dendritic Cell,Bone Marrow
+GSM3455124,Dendritic Cell,Bone Marrow
+GSM3455125,Dendritic Cell,Bone Marrow
+GSM3455126,Dendritic Cell,Bone Marrow
+GSM3455127,Dendritic Cell,Spleen
+GSM3455128,Dendritic Cell,Spleen
+GSM3455129,Dendritic Cell,Spleen
+GSM3455130,Macrophage,Kidney
+GSM3455131,Macrophage,Kidney
+GSM3455132,Macrophage,Kidney
+GSM3455133,Macrophage,Lung
+GSM3455134,Macrophage,Lung
+GSM3455135,Macrophage,Lung
+GSM3455136,Macrophage,Kidney
+GSM3455137,Macrophage,Kidney
+GSM3455138,Macrophage,Lung
+GSM3455139,Macrophage,Lung
+GSM3455140,Macrophage,Brain
+GSM3455141,Macrophage,Brain
+GSM3455142,Macrophage,Colon
+GSM3455143,Macrophage,Colon
+GSM3455144,Macrophage,Dermis
+GSM3455145,Macrophage,Dermis
+GSM3455146,Macrophage,Epithelium
+GSM3455147,Macrophage,Epithelium
+GSM3455148,Macrophage,Heart
+GSM3455149,Macrophage,Heart
+GSM3455150,Macrophage,Kidney
+GSM3455151,Macrophage,Kidney
+GSM3455152,Macrophage,Liver
+GSM3455153,Macrophage,Liver
+GSM3455100,Monocyte,Peritoneal Cavity
+GSM3455154,Macrophage,Peritoneal Cavity
+GSM3455156,Macrophage,Spleen
+GSM3455157,Macrophage,Spleen
+GSM3455158,Macrophage,Thymus
+GSM3455159,Macrophage,Thymus
+GSM3455160,Macrophage,Thymus
+GSM3455161,Macrophage,Kidney
+GSM3455162,Macrophage,Kidney
+GSM3455163,Macrophage,Lung
+GSM3455164,Macrophage,Lung
+GSM3455155,Macrophage,Peritoneal Cavity
+GSM3455165,Macrophage,Peritoneal Cavity
+GSM3455166,Macrophage,Peritoneal Cavity
+GSM3455167,Macrophage,Peritoneal Cavity
+GSM3455168,Macrophage,Peritoneal Cavity
+GSM3455169,Macrophage,Peritoneal Cavity
+GSM3455170,Macrophage,Peritoneal Cavity
+GSM3455171,Macrophage,Peritoneal Cavity
+GSM3455172,Macrophage,Peritoneal Cavity
+GSM3455173,Macrophage,Peritoneal Cavity
+GSM3455174,Macrophage,Peritoneal Cavity
+GSM3455175,Macrophage,Peritoneal Cavity
+GSM3455177,Dendritic Cell,Liver
+GSM3455178,Dendritic Cell,Liver
+GSM3455179,Dendritic Cell,Liver
+GSM3455180,Dendritic Cell,Liver
+GSM3455181,Dendritic Cell,Liver
+GSM3455182,Dendritic Cell,Liver
+GSM3455183,Dendritic Cell,Liver
+GSM3455184,Dendritic Cell,Liver
+GSM3455185,Dendritic Cell,Liver
+GSM3455186,Dendritic Cell,Liver
+GSM3455187,Dendritic Cell,Liver
+GSM3455188,Macrophage,Liver
+GSM3455189,Macrophage,Liver
+GSM3455190,Macrophage,Liver
+GSM3455191,Macrophage,Liver
+GSM3455192,Macrophage,Liver
+GSM3455193,Macrophage,Liver
+GSM3455194,Macrophage,Liver
+GSM3455195,Macrophage,Liver
+GSM3455196,Macrophage,Liver
+GSM3455197,Macrophage,Liver
+GSM3455198,Macrophage,Liver
+GSM3455199,Macrophage,Liver
+GSM3455200,Macrophage,Liver
+GSM3455201,Macrophage,Liver
+GSM3455202,Monocyte,Liver
+GSM3455203,Monocyte,Liver
+GSM3455204,Monocyte,Liver
+GSM3455205,Monocyte,Liver
+GSM3455206,Monocyte,Liver
+GSM3455207,Monocyte,Liver
+GSM3455208,Monocyte,Liver
+GSM3455209,Monocyte,Liver
+GSM3455210,Monocyte,Liver
+GSM3455211,Monocyte,Liver
+GSM3455212,Monocyte,Liver
+GSM3455213,Monocyte,Liver
+GSM3455214,Monocyte,Liver
+GSM3455215,Monocyte,Liver
+GSM3455216,Monocyte,Liver
+GSM3455217,Monocyte,Liver
+GSM3455218,Macrophage,Lung
+GSM3455219,Macrophage,Lung
+GSM3455220,Macrophage,Lung
+GSM3455221,Macrophage,Lung
+GSM3455222,Macrophage,Lung
+GSM3455223,Macrophage,Lung
+GSM3455224,Macrophage,Lung
+GSM3455225,Macrophage,Lung
+GSM3455226,Macrophage,Lung
+GSM3455227,Macrophage,Lung
+GSM3455228,Macrophage,Lung
+GSM3455229,Macrophage,Lung
+GSM3455230,Macrophage,Lung
+GSM3455231,Macrophage,Lung
+GSM3455232,Macrophage,Lung
+GSM3455233,Macrophage,Lung
+GSM3455234,Macrophage,Lung
+GSM3455235,Macrophage,Lung
+GSM3455236,Macrophage,Lung
+GSM3455237,Macrophage,Lung
+GSM3455176,Macrophage,Peritoneal Cavity
+GSM3455238,Macrophage,Peritoneal Cavity
+GSM3455240,Macrophage,Lung
+GSM3455241,Macrophage,Lung
+GSM3455242,Macrophage,Lung
+GSM3455243,Macrophage,Lung
+GSM3455244,Monocyte,Lung
+GSM3455245,Monocyte,Lung
+GSM3455246,Monocyte,Lung
+GSM3455247,Monocyte,Lung
+GSM3455248,Monocyte,Lung
+GSM3455249,Monocyte,Lung
+GSM3455250,Monocyte,Lung
+GSM3455251,Monocyte,Lung
+GSM3455252,Macrophage,Heart
+GSM3455253,Macrophage,Heart
+GSM3455254,Macrophage,Heart
+GSM3455255,Macrophage,Heart
+GSM3455256,Macrophage,Heart
+GSM3455257,Macrophage,Heart
+GSM3455258,Macrophage,Heart
+GSM3455259,Macrophage,Heart
+GSM3455260,Macrophage,Heart
+GSM3455261,Macrophage,Heart
+GSM3455262,Macrophage,Heart
+GSM3455263,Macrophage,Heart
+GSM3455264,Macrophage,Heart
+GSM3455265,Macrophage,Heart
+GSM3455266,Macrophage,Heart
+GSM3455267,Macrophage,Heart
+GSM3455268,Macrophage,Heart
+GSM3455269,Macrophage,Heart
+GSM3455270,Macrophage,Heart
+GSM3455239,Macrophage,Peritoneal Cavity
+GSM3455271,Macrophage,Peritoneal Cavity
+GSM3455272,Macrophage,Peritoneal Cavity
+GSM3455273,Macrophage,Peritoneal Cavity
+GSM3455275,Monocyte,Heart
+GSM3455276,Monocyte,Heart
+GSM3455277,Monocyte,Heart
+GSM3455278,Monocyte,Heart
+GSM3455279,Monocyte,Heart
+GSM3455280,Monocyte,Heart
+GSM3455281,Macrophage,Heart
+GSM3455282,Macrophage,Heart
+GSM3455283,Macrophage,Liver
+GSM3455284,Macrophage,Liver
+GSM3455285,Macrophage,Liver
+GSM3455286,Macrophage,Liver
+GSM3455287,Macrophage,Liver
+GSM3455288,Macrophage,Liver
+GSM3455289,Macrophage,Brain
+GSM3455290,Macrophage,Brain
+GSM3455291,Macrophage,Brain
+GSM3455292,Macrophage,Brain
+GSM3455293,Macrophage,Brain
+GSM3455294,Macrophage,Brain
+GSM3455295,Macrophage,Kidney
+GSM3455296,Macrophage,Kidney
+GSM3455297,Macrophage,Kidney
+GSM3455298,Macrophage,Kidney
+GSM3455299,Macrophage,Kidney
+GSM3455300,Macrophage,Kidney
+GSM3455274,Macrophage,Peritoneal Cavity
+GSM3455301,Macrophage,Peritoneal Cavity
+GSM3455303,Dendritic Cell,Lung
+GSM3455304,Dendritic Cell,Lung
+GSM3455305,Dendritic Cell,Lung
+GSM3455306,Dendritic Cell,Lung
+GSM3455307,Dendritic Cell,Lung
+GSM3455308,Dendritic Cell,Lung
+GSM3455309,Dendritic Cell,Spleen
+GSM3455310,Dendritic Cell,Spleen
+GSM3455311,Dendritic Cell,Spleen
+GSM3455312,Dendritic Cell,Mediastinal LN
+GSM3455313,Dendritic Cell,Mediastinal LN
+GSM3455314,Dendritic Cell,Mediastinal LN
+GSM3455315,Dendritic Cell,Mediastinal LN
+GSM3455316,Dendritic Cell,Mediastinal LN
+GSM3455317,Dendritic Cell,Mediastinal LN
+GSM3455318,Dendritic Cell,Mediastinal LN
+GSM3455319,Dendritic Cell,Mediastinal LN
+GSM3455320,Dendritic Cell,Mediastinal LN
+GSM3455321,Dendritic Cell,Mediastinal LN
+GSM3455322,Dendritic Cell,Mediastinal LN
+GSM3455323,Macrophage,Lung
+GSM3455324,Macrophage,Lung
+GSM3455325,Macrophage,Brain
+GSM3455326,Macrophage,Brain
+GSM3455327,Macrophage,Brain
+GSM3455328,Macrophage,Brain
+GSM3455329,Macrophage,Brain
+GSM3455330,Macrophage,Lung
+GSM3455331,Microglia,Brain
+GSM3455332,Microglia,Brain
+GSM3455333,Microglia,Brain
+GSM3455334,Microglia,Brain
+GSM3455335,Microglia,Brain
+GSM3455336,Microglia,Brain
+GSM3455337,Microglia,Brain
+GSM3455338,Microglia,Brain
+GSM3455339,Microglia,Brain
+GSM3455340,Monocyte,Blood
+GSM3455341,Monocyte,Lung
+GSM3455342,Monocyte,Lung
+GSM3455343,Monocyte,Lung
+GSM3455344,Monocyte,Blood
+GSM3455345,Monocyte,Blood
+GSM3455346,Monocyte,Blood
+GSM3455347,Monocyte,Lung
+GSM3455348,Monocyte,Lung
+GSM3455349,Monocyte,Lung
+GSM3455350,Dendritic Cell,Lymph Node
+GSM3455351,Dendritic Cell,Lymph Node
+GSM3455352,Dendritic Cell,Lymph Node
+GSM3455353,Dendritic Cell,Lymph Node
+GSM3455354,Dendritic Cell,Peyer's Patch
+GSM3455355,Dendritic Cell,Peyer's Patch
+GSM3455356,Dendritic Cell,Peyer's Patch
+GSM3455357,Dendritic Cell,Lymph Node
+GSM3455358,Dendritic Cell,Lymph Node
+GSM3455359,Dendritic Cell,Lymph Node
+GSM3455360,Dendritic Cell,Peyer's Patch
+GSM3455361,Dendritic Cell,Peyer's Patch
+GSM3455362,Dendritic Cell,Peyer's Patch
+GSM3455363,Dendritic Cell,Lymph Node
+GSM3455364,Dendritic Cell,Lymph Node
+GSM3455365,Dendritic Cell,Lymph Node
+GSM3455366,Dendritic Cell,Lymph Node
+GSM3455367,Dendritic Cell,Peyer's Patch
+GSM3455368,Dendritic Cell,Peyer's Patch
+GSM3455369,Dendritic Cell,Peyer's Patch
+GSM3455370,Dendritic Cell,Lymph Node
+GSM3455371,Dendritic Cell,Lymph Node
+GSM3455372,Dendritic Cell,Peyer's Patch
+GSM3455373,Dendritic Cell,Peyer's Patch
+GSM3455374,Dendritic Cell,Peyer's Patch
+GSM3455302,Macrophage,Peritoneal Cavity
+GSM3455375,Macrophage,Peritoneal Cavity
+GSM3455376,Macrophage,Peritoneal Cavity
+GSM3455377,Macrophage,Peritoneal Cavity
+GSM3455378,Macrophage,Peritoneal Cavity
+GSM3455379,Macrophage,Peritoneal Cavity
+GSM3455380,Macrophage,Peritoneal Cavity
+GSM3455381,Macrophage,Peritoneal Cavity
+GSM3455382,Macrophage,Peritoneal Cavity
+GSM3455384,Macrophage,Spleen
+GSM3455385,Macrophage,Spleen
+GSM3455386,Macrophage,Inguinal fat
+GSM3455387,Macrophage,Inguinal fat
+GSM3455388,Macrophage,Inguinal fat
+GSM3455389,Macrophage,Mesenteric Sheet
+GSM3455390,Macrophage,Mesenteric Sheet
+GSM3455391,Macrophage,Mesenteric Sheet
+GSM3455392,Macrophage,Mesenteric Sheet
+GSM3455393,Macrophage,Epididymal fat
+GSM3455394,Macrophage,Epididymal fat
+GSM3455395,Macrophage,Epididymal fat
+GSM3455396,Macrophage,Mesenteric Fat
+GSM3455397,Macrophage,Mesenteric Fat
+GSM3455398,Macrophage,Mesenteric Fat
+GSM3455399,Macrophage,Mesenteric Fat
+GSM3455400,Macrophage,Spleen
+GSM3455401,Macrophage,Spleen
+GSM3455402,Macrophage,Lung
+GSM3455403,Macrophage,Lung
+GSM3455404,Macrophage,Lung
+GSM3455405,Macrophage,Dorsal root ganglia
+GSM3455406,Macrophage,Dorsal root ganglia
+GSM3455409,Microglia,Brain
+GSM3455410,Microglia,Brain
+GSM3455411,Macrophage,Brain
+GSM3455412,Macrophage,Brain
+GSM3455413,Macrophage,Brain
+GSM3455414,Macrophage,Peritoneal Cavity
+GSM3455415,Macrophage,Peritoneal Cavity
+GSM3455416,Macrophage,Sciatic nerve
+GSM3455417,Macrophage,Sciatic nerve
+GSM3455418,Microglia,Spinal Cord
+GSM3455419,Microglia,Spinal Cord
+GSM3455420,Microglia,Spinal Cord
+GSM3455421,Monocyte,Blood
+GSM3455422,Monocyte,Blood
+GSM3455423,Monocyte,Blood
+GSM3455424,Monocyte,Blood
+GSM3455425,Macrophage,Peritoneal Cavity
+GSM3455426,Macrophage,Peritoneal Cavity
+GSM3455427,Macrophage,Peritoneal Cavity
+GSM3455428,Macrophage,Peritoneal Cavity
+GSM3455429,Macrophage,Peritoneal Cavity
+GSM3455430,Macrophage,Peritoneal Cavity
+GSM3455431,Macrophage,Peritoneal Cavity
+GSM3455432,Macrophage,Peritoneal Cavity
+GSM3455433,Macrophage,Peritoneal Cavity
+GSM3455434,Macrophage,Peritoneal Cavity
+GSM3455435,Macrophage,Peritoneal Cavity
+GSM3455436,Macrophage,Peritoneal Cavity
+GSM3455437,Macrophage,Peritoneal Cavity
+GSM3455438,Macrophage,Peritoneal Cavity
