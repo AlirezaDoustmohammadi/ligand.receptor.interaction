@@ -280,16 +280,60 @@ Centrality_analysis <- function(cellchat, output_dir, GEO.number, selected_group
 }
 
 
-save_interactions <- function(cellchat, output_dir, GEO.number, selected_group) {
+save_interactions <- function(cellchat, output_dir, GEO.number, selected_group, p.val) {
   # founded intercations
   interactions = cellchat@LR[["LRsig"]]
   write.csv(interactions, paste0(output_dir, GEO.number, "/", selected_group,
                                  "/", GEO.number,  "_interactions.csv"))
+  
+  
+  # cell cell communication
+  # define an empty dataframe with four columns
+  cell.cell.communication.df <- data.frame()
+  
+  interaction_names <- dimnames(cellchat@net[["pval"]])[[3]]
+  groups <- dimnames(cellchat@net[["pval"]])[[1]]
+  
+  for (i in 1:length(interaction_names)) {
+    
+    interaction <- interaction_names[i]
+    
+    # get the indices of cells below the threshold
+    filtered.matrix <- which(cellchat@net[["pval"]][ , , interaction_names[i]] < p.val, arr.ind = TRUE)
+    
+    # extract the row and column indices from the indices matrix
+    row_numbers <- filtered.matrix[,1]
+    col_numbers <- filtered.matrix[,2]
+    
+    for (j in 1:length(row_numbers)) {
+      
+      # cell cell communication
+      cell.1 <- groups[row_numbers[j]]
+      cell.2 <- groups[col_numbers[j]]
+      cell.cell.communication.p.value <- 
+        cellchat@net[["pval"]][ , , interaction_names[i]][row_numbers[j], col_numbers[j]]
+      
+      # create a new row to append to the dataframe
+      new_row <- c(interaction, cell.1, cell.2, cell.cell.communication.p.value)
+      
+      # append the new row to the cell-cell communication dataframe
+      cell.cell.communication.df <- rbind(cell.cell.communication.df, new_row)
+      
+      
+    }
+    
+  }
+  
+  # add column names
+  colnames(cell.cell.communication.df) <- c('interaction', 'cell1', 'cell2', 'p-value')
+  # write the dataframe to a CSV file
+  write.csv(cell.cell.communication.df, paste0(output_dir, GEO.number, "/", selected_group,
+                                 "/", GEO.number,  "_cell.cell.communication.csv"))
 
 }
 
 # GEO numbers vector
-GEO.vector.number = c('GSE109125', 'GSE122597', 'Combined')
+GEO.vector.number = c('Combined_RNASeq_data')
 
 # input directory
 input_dir <- "input/"
@@ -333,7 +377,7 @@ for (i in 1:length(GEO.vector.number)) {
     cellchat <- Centrality_analysis(cellchat, output_dir, GEO.number, selected.group)
     
     # save intercations
-    save_interactions(cellchat, output_dir, GEO.number, selected.group)
+    save_interactions(cellchat, output_dir, GEO.number, selected.group, p.val = 0.05)
     
     # Save the CellChat object
     saveRDS(cellchat, file = paste0(output_dir, GEO.number, "/", selected.group,
