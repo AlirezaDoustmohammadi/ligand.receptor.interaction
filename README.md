@@ -8,4 +8,7 @@ Analysis of this network shows that cells of hematopoietic lineages use fewer co
 
 The analyses done are part of a paper published in the Journal of <i>Biotechnology and Bioengineering</i> in May 2023 titled "<b>Reconstructing the cell-cell interaction network among mouse immune cells</b>"
 
+Here is the article link:
+[https://lnkd.in/daKevQiS](https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28431)https://onlinelibrary.wiley.com/doi/abs/10.1002/bit.28431
+
 
